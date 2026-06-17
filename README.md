@@ -1,4 +1,3 @@
-# README.md
 # Hike Planner Server
 
 Серверная часть приложения для планирования походов на Node.js + Express + Sequelize
